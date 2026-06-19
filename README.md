@@ -134,7 +134,7 @@ Meet Patel
 
 Full Stack Developer passionate about creating responsive and user-friendly web applications.
 
-GitHub: https://github.com/dev-maanpatel
+GitHub: https://github.com/meetpatel0264
 
 ---
 
