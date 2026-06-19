@@ -70,7 +70,7 @@ Aero-Page
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Meetpatel0264/Node-Pr-3
 ```
 
 ### Move to Project Folder
@@ -130,7 +130,7 @@ While building this project, I practiced:
 
 ## Developer
 
-Maan Patel
+Meet Patel
 
 Full Stack Developer passionate about creating responsive and user-friendly web applications.
 
